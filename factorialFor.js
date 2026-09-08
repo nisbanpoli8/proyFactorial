@@ -8,6 +8,6 @@ function factorial(n) {
     return resultado;
 }
 
-let numero = 5;
+let numero = parseInt(prompt("Ingresa un número: "));
 
 console.log("El factorial de " + numero + " es: " + factorial(numero));
