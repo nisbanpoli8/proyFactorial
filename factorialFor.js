@@ -10,4 +10,3 @@ function factorial(n) {
 
 let numero = parseInt(prompt("Ingresa un número: "));
 
-console.log("El factorial de " + numero + " es: " + factorial(numero));
